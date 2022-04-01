@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "476461103167",
+    "firebase_url": "https://projectsappsanas.firebaseio.com",
+    "project_id": "projectsappsanas",
+    "storage_bucket": "projectsappsanas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476461103167:android:53b9157bf1666030ae208a",
+        "android_client_info": {
+          "package_name": "com.anasfauzi.kamusonlinebahasaisyarat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476461103167-dndcdjlvvr2sti0kk38ft8lnborl2cbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anasfauzi.kamusonlinebahasaisyarat",
+            "certificate_hash": "b164c1538a9e9df0bc196a42ec83afd3e957eb77"
+          }
+        },
+        {
+          "client_id": "476461103167-4fclg3k7iff325vkcheiogisjkumlnn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACePsTa8wU3HuBfQrNVx3Ssxc9BYfk6VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476461103167-4fclg3k7iff325vkcheiogisjkumlnn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
